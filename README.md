@@ -32,11 +32,13 @@ This project tackles the real-world challenge of predicting customer churn using
 ## 📂 Folder Structure
 churnshield/
 │
-├── data/ # Raw or cleaned dataset (optional)
+├── data/               # Raw or cleaned datasets (optional)
 ├── notebooks/
-│ └── churn_prediction.ipynb # Main Jupyter Notebook
-├── images/ # Visualizations (confusion matrix, charts)
+│   └── churn_prediction.ipynb  # Main Jupyter notebook
+├── images/             # Visualizations (e.g., confusion matrix)
 ├── README.md
+├── requirements.txt
+
 
 
 
@@ -64,29 +66,32 @@ churnshield/
 
 ## 🧪 How to Run Locally
 
-1. Clone the repo
-```bash
+# Clone the repository
 git clone https://github.com/your-username/churnshield.git
 cd churnshield
 
+# Install dependencies
 pip install -r requirements.txt
 
+# Launch the notebook
 jupyter notebook
 
 
+---
 
-👤 Author
-Syed Abdul Waheed 
-Data Science Enthusiast | Python Developer | Automation Explorer
-📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
-🐙 GitHub: waheed24-03
+# 👤 Author
+# Syed Abdul Waheed
+# Data Science Enthusiast | Python Developer | Automation Explorer
 
-
-📜 License
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
 
 
-📎 Acknowledgements
-Scikit-learn Documentation
-imbalanced-learn Documentation
-Forage datasets 
+---
+
+## 📎 Acknowledgements
+
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
+- [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
+- [Forage Datasets](https://www.theforage.com/)
+
