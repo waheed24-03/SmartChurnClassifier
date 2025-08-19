@@ -65,9 +65,7 @@ churnshield/
 - Imbalanced-learn (SMOTE)
 
 ---
-
-## 🧪 How to Run Locally
-
+``` bash
 # Clone the repository
 git clone https://github.com/your-username/churnshield.git
 cd churnshield
@@ -77,7 +75,7 @@ pip install -r requirements.txt
 
 # Launch the notebook
 jupyter notebook
-
+```
 
 ---
 
@@ -96,6 +94,7 @@ jupyter notebook
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
 - [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
 - [Forage Datasets](https://www.theforage.com/)
+
 
 
 
