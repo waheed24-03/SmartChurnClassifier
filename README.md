@@ -48,10 +48,11 @@ churnshield/
 
 ## 📈 Final Model Evaluation
 
-✅ **Accuracy**: 83.7%
-✅ **Precision/Recall**: Balanced post-SMOTE
-✅ **Confusion Matrix**: Included
-✅ **F1-Score**: Strong performance for both classes
+**Accuracy**: 83.7%
+**ROC AUC: 0.90
+**Precision/Recall**: Balanced post-SMOTE
+**Confusion Matrix**: Included
+**F1-Score**: Strong performance for both classes
 
 ---
 
@@ -94,5 +95,6 @@ jupyter notebook
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
 - [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
 - [Forage Datasets](https://www.theforage.com/)
+
 
 
