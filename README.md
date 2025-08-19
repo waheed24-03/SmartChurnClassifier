@@ -19,13 +19,14 @@ This project tackles the real-world challenge of predicting customer churn using
 ---
 
 ## 🧠 Model Details
+| Component               | Description                                  |
+|------------------------|----------------------------------------------|
+| **Model Used**         | Random Forest Classifier                     |
+| **Imbalance Handling** | SMOTE (Synthetic Minority Over-sampling)     |
+| **Accuracy Achieved**  | ~83.7%                                       |
+| **ROC AUC**            | 0.90    |
+| **Dataset Size**       | 1000 entries, expanded to 1592 post-SMOTE    |
 
-| Component | Description |
-|------------------------|-------------------------------------------|
-| **Model Used** | Random Forest Classifier |
-| **Imbalance Handling** | SMOTE (Synthetic Minority Over-sampling) |
-| **Accuracy Achieved** | ~83.7% |
-| **Dataset Size** | 1000 entries, expanded to 1592 post-SMOTE|
 
 ---
 
@@ -48,11 +49,11 @@ churnshield/
 
 ## 📈 Final Model Evaluation
 
-**Accuracy**: 83.7%
-**ROC AUC: 0.90
-**Precision/Recall**: Balanced post-SMOTE
-**Confusion Matrix**: Included
-**F1-Score**: Strong performance for both classes
+- **Accuracy**: 83.7%
+- **ROC AUC: 0.90
+- **Precision/Recall**: Balanced post-SMOTE
+- **Confusion Matrix**: Included
+- **F1-Score**: Strong performance for both classes
 
 ---
 
@@ -95,6 +96,7 @@ jupyter notebook
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
 - [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
 - [Forage Datasets](https://www.theforage.com/)
+
 
 
 
