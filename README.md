@@ -24,7 +24,7 @@ This project tackles the real-world challenge of predicting customer churn using
 | **Model Used**         | Random Forest Classifier                     |
 | **Imbalance Handling** | SMOTE (Synthetic Minority Over-sampling)     |
 | **Accuracy Achieved**  | ~83.7%                                       |
-| **ROC AUC**            | 0.90    |
+| **ROC AUC**            | 0.90                                         |
 | **Dataset Size**       | 1000 entries, expanded to 1592 post-SMOTE    |
 
 
@@ -94,6 +94,7 @@ jupyter notebook
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
 - [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
 - [Forage Datasets](https://www.theforage.com/)
+
 
 
 
