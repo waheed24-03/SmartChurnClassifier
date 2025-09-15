@@ -89,6 +89,8 @@ jupyter notebook
 - [Forage Datasets](https://www.theforage.com/)
 
 ---
+# 👤 Author
+
 
 
 
