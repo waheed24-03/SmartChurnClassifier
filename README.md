@@ -93,7 +93,7 @@ jupyter notebook
 - Syed Abdul Waheed
 - Data Science Enthusiast | Python Developer | Automation Explorer
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
-- 🐙 GitHub: waheed24-03
+- 🐙 GitHub: waheed24
 ---
 
 
