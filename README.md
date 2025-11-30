@@ -88,6 +88,10 @@ jupyter notebook
 - [Imbalanced-learn (SMOTE) Documentation](https://imbalanced-learn.org/stable/)  
 - [Forage Datasets](https://www.theforage.com/)
 
+---
+## 👤 Author
+
+
 
 
 
