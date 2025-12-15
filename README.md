@@ -4,7 +4,7 @@ ChurnShield is an end-to-end machine learning solution designed to help business
 
 ---
 
-## 🚀 Project Overview
+
 
 This project tackles the real-world challenge of predicting customer churn using historical customer interaction data. We apply a structured ML pipeline with the following key stages:
 
