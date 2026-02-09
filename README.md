@@ -81,16 +81,16 @@ churnshield/
 
 Follow these steps to replicate the analysis locally:
 
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/Syed-Waheed/churnshield.git
 
-# 2. Navigate to the directory
+ 2. Navigate to the directory
 cd churnshield
 
-# 3. Install dependencies
+ 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Launch Jupyter Notebook
+ 4. Launch Jupyter Notebook
 jupyter notebook
 
 ---
@@ -126,6 +126,7 @@ Special thanks to the open-source community and resources that made this possibl
 </div>
 
 <br clear="left"/>
+
 
 
 
