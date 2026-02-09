@@ -77,6 +77,56 @@ churnshield/
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
+## ⚙️ Local Setup
+
+Follow these steps to replicate the analysis locally:
+
+# 1. Clone the repository
+git clone https://github.com/Syed-Waheed/churnshield.git
+
+# 2. Navigate to the directory
+cd churnshield
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Launch Jupyter Notebook
+jupyter notebook
+
+---
+
+## 📎 Acknowledgements
+
+Special thanks to the open-source community and resources that made this possible:
+
+- Scikit-learn Documentation
+- Imbalanced-learn (SMOTE)
+- Forage for dataset inspiration
+
+---
+
+## 👤 Author
+
+<div align="left">
+  <img src="https://github.com/Syed-Waheed.png" width="100" align="left" style="margin-right: 20px; border-radius: 50%;" alt="Syed Abdul Waheed" />
+
+  <strong>Syed Abdul Waheed</strong><br/>
+  <em>Data Science Enthusiast | Python Developer | Automation Explorer</em>
+
+  Focused on building concepts rather than memorizing syntax. Actively working on strengthening practical implementation skills in AI & ML.
+
+  <br /><br />
+
+  <a href="https://www.linkedin.com/in/syed-abdul-waheed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Syed-Waheed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<br clear="left"/>
+
 
 
 
