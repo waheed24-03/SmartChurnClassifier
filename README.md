@@ -127,11 +127,10 @@ Special thanks to the open-source community and resources that made this possibl
 
 <br clear="left"/>
 
-<div align="center">
-  <p>If you found this project useful, please ⭐ the repository!</p>
-</div>
+
 
 ---
+
 
 
 
